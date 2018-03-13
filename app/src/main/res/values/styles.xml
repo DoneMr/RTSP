@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style xmlns:android="http://schemas.android.com/apk/res/android" name="EditText" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">top</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:ems">18</item>
+    </style>
+
+    <style xmlns:android="http://schemas.android.com/apk/res/android" name="RadioButton" parent="@android:style/Widget.CompoundButton">
+        <item name="android:button">@null</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+</resources>

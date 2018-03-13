@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DoneSerialPort</string>
+
+    <string name="start">Start/Stop Streaming</string>
+    <string name="flash">Flash</string>
+    <string name="camera">Camera</string>
+    <string name="video">Video Settings</string>
+    <string name="save">OK</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="uri">URI</string>
+    <string name="password_hint">Leave empty if not needed</string>
+    <string name="username_hint">Leave empty if not needed</string>
+    <string name="default_bitrate">0 kbps</string>
+    <string name="default_stream">rtsp://192.168.42.1:554/live/ch01_0</string>
+    <string name="default_stream1">rtsp://184.72.239.149/vod/mp4://BigBuckBunny_175k.mov</string>
+</resources>
